@@ -1,8 +1,8 @@
 ## Hi Arsandi here 👋
 
-You can call me **Arsandi**. I'm a software engineer from 🇮🇩 Indonesia. I love coding and building things that make people's lives easier. Most of the time was working with PHP, JavaScript, and TypeScript, using various frameworks to build front-end and back-end applications such as [Laravel](https://laravel.com), [MySQL](https://www.mysql.com/), [Vue.js](https://vuejs.org), and [Tailwind](https://tailwindcss.com). I'm interest with website and open source project 🚀
+You can call me **Arsandi**. I'm a software engineer from 🇮🇩 Indonesia. I love coding and building things that make people's lives easier. Most of the time was working with PHP and JavaScript, using various frameworks to build front-end and back-end applications such as [Laravel](https://laravel.com), [MySQL](https://www.mysql.com/), [Vue.js](https://vuejs.org), and [Tailwind](https://tailwindcss.com). I'm interest with website and open source project 🚀
 
-## Statistics
+<!-- ## Statistics
 
 <p>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=arsandisaputra&layout=compact&hide_border=true&theme=tokyonight">
@@ -11,7 +11,7 @@ You can call me **Arsandi**. I'm a software engineer from 🇮🇩 Indonesia. I 
   <a href="https://github-readme-stats.vercel.app/api?username=arsandisaputra&show_icons=true&hide_border=true&theme=tokyonight">
     <img src="https://github-readme-stats.vercel.app/api?username=arsandisaputra&show_icons=true&hide_border=true&theme=tokyonight" alt="Arsandi's Github Stats" height=160"/>
   </a>
-</p>
+</p> -->
 
 
 ## Keep Connected
@@ -19,6 +19,7 @@ You can call me **Arsandi**. I'm a software engineer from 🇮🇩 Indonesia. I 
 <a href="https://www.linkedin.com/in/arsandisaputra" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0170ad?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://www.twitter.com/arsandisaputra" target="_blank">
   <img alt="X / Twitter" src="https://img.shields.io/badge/-X (Twitter)-000000?style=for-the-badge&logo=x" />
 </a>
