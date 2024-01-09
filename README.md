@@ -7,7 +7,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsandisaputra&layout=compact&hide_border=true&theme=tokyonight" alt="Arsandi's Most Used Language" height="160"/>
   </a>
   <a href="https://github-readme-stats.vercel.app/api?username=arsandisaputra&show_icons=true&hide_border=true&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api?username=arsndisaputra&show_icons=true&hide_border=true&theme=tokyonight" alt="Arsandi's Github Stats" height=160"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=arsandisaputra&show_icons=true&hide_border=true&theme=tokyonight" alt="Arsandi's Github Stats" height=160"/>
   </a>
 </p>
 
