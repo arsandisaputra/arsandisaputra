@@ -19,7 +19,6 @@ You can call me **Arsandi**. I'm a software engineer from 🇮🇩 Indonesia. I 
 <a href="https://www.linkedin.com/in/arsandisaputra" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0170ad?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="https://www.twitter.com/arsandisaputra" target="_blank">
   <img alt="X / Twitter" src="https://img.shields.io/badge/-X (Twitter)-000000?style=for-the-badge&logo=x" />
 </a>
