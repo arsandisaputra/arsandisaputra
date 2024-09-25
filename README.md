@@ -22,10 +22,10 @@ You can call me **Arsandi**. I'm a software engineer from 🇮🇩 Indonesia. I 
 <a href="https://www.twitter.com/arsandisaputra" target="_blank">
   <img alt="X / Twitter" src="https://img.shields.io/badge/-X (Twitter)-000000?style=for-the-badge&logo=x" />
 </a>
-<!-- <a href="https://www.youtube.com/@fityannugroho" target="_blank">
+<!-- <a href="https://www.youtube.com/@arsandisaputra" target="_blank">
   <img alt="YouTube" src="https://img.shields.io/badge/-YouTube-f70000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a> -->
-<!-- <a href="https://fityannugroho.medium.com" target="_blank">
+<!-- <a href="https://arsandisaputra.medium.com" target="_blank">
   <img alt="Medium" src="https://img.shields.io/badge/-Medium-1d1916?style=for-the-badge&logo=medium&logoColor=white" />
 </a> -->
 
