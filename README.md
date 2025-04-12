@@ -1,6 +1,6 @@
 # Hi, Arsandi here 👋
 
-You can call me **Arsandi**. I'm a software engineer from 🇮🇩 Indonesia. I love coding and building things that make people's lives easier. Most of the time was working with PHP, JavaScript and CSS, using various frameworks to build back-end and front-end applications such as [Laravel](https://laravel.com), [MySQL](https://www.mysql.com/), and [Tailwind](https://tailwindcss.com). I'm interest with website and open source project 🚀
+I'm a software engineer from 🇮🇩 Indonesia. I love coding and building things that make people's lives easier. Most of the time was working with PHP, JavaScript and CSS, using various frameworks to build back-end and front-end applications such as [Laravel](https://laravel.com) and [MySQL](https://www.mysql.com/). I'm interest with website and open source project 🚀
 
 <!-- ## Statistics
 
